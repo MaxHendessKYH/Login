@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVC_123</string>
+    <string name="register">REGISTER</string>
+    <string name="log_in">LOG IN</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+</resources>
